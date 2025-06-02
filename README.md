@@ -31,3 +31,9 @@ It integrates all the practical functions of Termux.
 ## 👥 联系与反馈
 - 邮箱：your_email@example.com
 - 问题反馈：[GitHub Issues](https://github.com/你的用户名/项目仓库名/issues)
+# Autumn-leaves
+![图片描述](https://autumn-leaveshelp.pages.dev/icon.png)
+~~看板娘~~
+~~咕咕咕~~
+帮助文档请看
+https://autumn.gancmcs.top/
